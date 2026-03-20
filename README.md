@@ -11,10 +11,10 @@ Rather than treating assignments as isolated tasks, the course simulates a real-
 
 ## Project Progression
 
-**Assignment 1**: Exploratory Data Analysis (EDA), handling missing values, feature scaling, and encoding categorical variables
+[Assignment 1](https://github.com/LidaTetyu/ML-Projects/blob/MSDS-422-Practical-Machine-Learning/MSDS422_Assignment_1_Lida.pdf): Exploratory Data Analysis (EDA), handling missing values, feature scaling, and encoding categorical variables
 
-**Assignment 2**: Implementing and tuning Decision Trees, Regression Trees, Random Forests, and Gradient Boosting.
+[Assignment 2](https://github.com/LidaTetyu/ML-Projects/blob/MSDS-422-Practical-Machine-Learning/MSDS422_Assignment_2_Lida.pdf): Implementing and tuning Decision Trees, Regression Trees, Random Forests, and Gradient Boosting.
 
-**Assignment 3**: Developing regression models using various variable selection methods to optimize predictive power.
+[Assignment 3](https://github.com/LidaTetyu/ML-Projects/blob/MSDS-422-Practical-Machine-Learning/MSDS422%20Assignment%203%20Lida.pdf): Developing regression models using various variable selection methods to optimize predictive power.
 
-**Assignment 4**: Training a multi-layer neural network using TensorFlow
+[Assignment 4](https://github.com/LidaTetyu/ML-Projects/blob/MSDS-422-Practical-Machine-Learning/MSDS422%20Assignment%204%20Lida.pdf): Training a multi-layer neural network using TensorFlow
